@@ -135,13 +135,7 @@ I focus on building **real-world AI solutions** that deliver measurable business
 
 `Python` `Java` `C/C++` `C#` `PHP` `SQL` `Bash`
 
----
 
-## 📊 GitHub Stats
-
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedAzizBouzid\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAzizBouzid\&layout=compact\&theme=tokyonight)
 
 ---
 
